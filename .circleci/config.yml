@@ -21,4 +21,4 @@ jobs:
       - run: 
           name: Run tests 
           no_output_timeout: 5h 
-          command: chmod +x hap.sh && ./hap.sh
+          command: chmod +x nurse.sh && ./nurse.sh
